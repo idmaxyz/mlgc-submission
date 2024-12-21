@@ -1,0 +1,6 @@
+{
+	"backend-service-url": "https://backend-mlgc-499910186084.asia-southeast2.run.app",
+	"frontend-service-url": "https://submissionmlgc-idama.et.r.appspot.com",
+	"project-id": "submissionmlgc-idama",
+	"bucket-name": "model-ml-idama"
+}
